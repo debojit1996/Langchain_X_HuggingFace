@@ -1,0 +1,4 @@
+langchain-huggingface
+python-dotenv
+pandas
+numpy
